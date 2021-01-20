@@ -1,0 +1,30 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingrock",
+    "prod_uri": "mysql://root:@localhost/codingrock",
+    "fb_url": "http://facebook.com/codingrock",
+    "tw_url": "http://twitter.com/codingrock",
+    "gh_url": "http://github.com/codingrock",
+    "blog_name": "CodingRock",
+    "tag_line": "A Blog For Programmers",
+    "gmail-user": "avtaarrr@gmail.com",
+    "gmail-password": "levioos@8",
+    "about_text": "Hi I am rani & i love dancing",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "harry",
+    "admin_password": "uff",
+    "upload_location": "C:\\Users\\Siddharth\\PycharmProjects\\four_4\\static"
+
+
+
+  }
+
+
+
+
+
+
+}
